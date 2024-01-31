@@ -9,5 +9,3 @@ It is split into 3 different components that aim to achieve the following possib
 - Raspberry Pi 3 A+ as server that
     - hosts a website where sensor data is displayed
     - allows configuration of microcontroller setup
-    - displays warnings if plant growth is in decline
-    - adjusts nutrient settings according to plant growth
