@@ -7,5 +7,5 @@ It is split into 3 different components that aim to achieve the following possib
     - Take pictures of plants over time with NoIR camera
     - Evaluate plant growth over time
 - Raspberry Pi 3 A+ as server that
-    - hosts a website where sensor data is displayed
-    - allows configuration of microcontroller setup
+    - Hosts a website where sensor data is displayed
+    - Allows configuration of microcontroller setup
